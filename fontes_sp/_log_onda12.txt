@@ -1,0 +1,41 @@
+OK SP_3502101_Andradina_tabela_site_x_2026 pdf 332940 application/pdf
+OK SP_3502507_Aparecida_deliberacao_1782_2026 pdf 294098 application/pdf
+OK SP_3502804_Araçatuba_resolucao_001_2026 pdf 2510798 application/pdf
+OK SP_3502903_Araçoiaba_da_Serra_resolucao_616_2025 pdf 399055 application/pdf
+OK SP_3505203_Bariri_decreto_6208_2025 pdf 102828 text/html; charset=utf-8
+OK SP_3505906_Batatais_decreto_4739_2026 pdf 6405310 application/pdf
+OK SP_3506102_Bebedouro_decreto_18160_2026 pdf 524214 application/pdf
+OK SP_3510005_Cândido_Mota_decreto_7674_2025 pdf 471697 application/pdf
+OK SP_3511409_Cerqueira_César_tabela_site_x_ pdf 1535829 application/pdf
+OK SP_3513405_Cruzeiro_tabela_site_x_ html 12526 text/html
+OK SP_3516705_Garça_portaria_5502-2025_2025 html 185473 text/html; charset=utf-8
+OK SP_3518206_Guararapes_decreto_4644_2025 pdf 19214 text/html; charset=utf-8
+OK SP_3518404_Guaratinguetá_deliberacao_1773_2026 pdf 666481 application/pdf
+OK SP_3519600_Ibitinga_tabela_site_x_ pdf 97 text/html; charset=utf-8
+OK SP_3520103_Igarapava_deliberacao_1705_2025 pdf 250761 application/pdf
+OK SP_3522703_Itápolis_portaria_643_2026 html 15192 text/html
+ERRO SP_3524402_Jacareí_resolucao_41_2026 tent0 <HTTPError 404: 'Not Found'>
+ERRO SP_3524402_Jacareí_resolucao_41_2026 tent1 <HTTPError 404: 'Not Found'>
+ERRO SP_3524402_Jacareí_resolucao_41_2026 tent2 <HTTPError 404: 'Not Found'>
+OK SP_3525102_Jardinópolis_decreto_7379-2024_2024 pdf 1653413 application/pdf
+OK SP_3525300_Jaú_tabela_site_x_2026 bin 366882 image/jpeg
+OK SP_3525706_José_Bonifácio_decreto_3834_2025 pdf 1749947 application/pdf
+OK SP_3526803_Lençóis_Paulista_decreto_390-2024_2024 pdf 304205 application/pdf
+OK SP_3528403_Mairinque_deliberacao_1787_2026 pdf 315866 application/pdf
+OK SP_3529005_Marília_resolucao_04_2026 pdf 479599 application/pdf
+OK SP_3530102_Mirandópolis_decreto_4074_2025 html 302500 text/html; charset=utf-8
+OK SP_3530300_Mirassol_tabela_site_x_2025 pdf 216691 application/pdf
+OK SP_3534708_Ourinhos_tabela_site_x_2025 html 75107 text/html; charset=utf-8
+OK SP_3537404_Pereira_Barreto_resolucao_189_2026 pdf 156064 application/pdf
+ERRO SP_3538907_Pirajuí_tabela_site_TabelaSAAE2024_2024 tent0 <HTTPError 404: 'Not Found'>
+ERRO SP_3538907_Pirajuí_tabela_site_TabelaSAAE2024_2024 tent1 <HTTPError 404: 'Not Found'>
+ERRO SP_3538907_Pirajuí_tabela_site_TabelaSAAE2024_2024 tent2 <HTTPError 404: 'Not Found'>
+OK SP_3539509_Pitangueiras_decreto_5391_2026 pdf 2011328 application/pdf
+OK SP_3540200_Pontal_decreto_084-2025_2025 pdf 4543423 application/pdf
+OK SP_3540705_Porto_Ferreira_tabela_site_x_2025 pdf 431670 application/pdf
+OK SP_3541505_Presidente_Venceslau_decreto_006_2026 pdf 806409 application/pdf
+OK SP_3541604_Promissão_decreto_3808_2024 pdf 102 text/html; charset=utf-8
+OK SP_3546603_Santa_Fé_do_Sul_decreto_6044_2026 pdf 679970 application/pdf
+OK SP_3546702_Santa_Gertrudes_deliberacao_1732_2025 pdf 532653 application/pdf
+OK SP_3553401_Tanabi_decreto_5471_2026 pdf 608238 application/pdf
+OK SP_3556305_Valparaíso_resolucao_07-2025_2025 pdf 157949 application/pdf
