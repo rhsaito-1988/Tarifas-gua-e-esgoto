@@ -1,0 +1,92 @@
+== curl -v ==
+* Host www.arespcj.com.br:443 was resolved.
+* IPv6: (none)
+* IPv4: 179.188.55.18
+*   Trying 179.188.55.18:443...
+* Connected to www.arespcj.com.br (179.188.55.18) port 443
+* ALPN: curl offers h2,http/1.1
+} [5 bytes data]
+* TLSv1.3 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+*  CAfile: /etc/ssl/certs/ca-certificates.crt
+*  CApath: /etc/ssl/certs
+{ [5 bytes data]
+* TLSv1.3 (IN), TLS handshake, Server hello (2):
+{ [122 bytes data]
+* TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):
+{ [19 bytes data]
+* TLSv1.3 (IN), TLS handshake, Certificate (11):
+{ [4094 bytes data]
+* TLSv1.3 (IN), TLS handshake, CERT verify (15):
+{ [264 bytes data]
+* TLSv1.3 (IN), TLS handshake, Finished (20):
+{ [52 bytes data]
+* TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):
+} [1 bytes data]
+* TLSv1.3 (OUT), TLS handshake, Finished (20):
+} [52 bytes data]
+* SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384 / X25519 / RSASSA-PSS
+* ALPN: server accepted h2
+* Server certificate:
+*  subject: CN=arespcj.com.br
+*  start date: Jul  7 23:38:49 2026 GMT
+*  expire date: Oct  5 23:38:48 2026 GMT
+*  subjectAltName: host "www.arespcj.com.br" matched cert's "www.arespcj.com.br"
+*  issuer: C=US; O=Let's Encrypt; CN=YR1
+*  SSL certificate verify ok.
+*   Certificate level 0: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 1: Public key type RSA (2048/112 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 2: Public key type RSA (4096/152 Bits/secBits), signed using sha256WithRSAEncryption
+*   Certificate level 3: Public key type RSA (4096/152 Bits/secBits), signed using sha256WithRSAEncryption
+} [5 bytes data]
+* using HTTP/2
+* [HTTP/2] [1] OPENED stream for https://www.arespcj.com.br/public/media/arquivos/1734435900-resolucao_n_594_2024_-_revisao_tarifaria_-_saaeb_brotas.pdf
+* [HTTP/2] [1] [:method: GET]
+* [HTTP/2] [1] [:scheme: https]
+* [HTTP/2] [1] [:authority: www.arespcj.com.br]
+* [HTTP/2] [1] [:path: /public/media/arquivos/1734435900-resolucao_n_594_2024_-_revisao_tarifaria_-_saaeb_brotas.pdf]
+* [HTTP/2] [1] [user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36]
+* [HTTP/2] [1] [accept: */*]
+} [5 bytes data]
+> GET /public/media/arquivos/1734435900-resolucao_n_594_2024_-_revisao_tarifaria_-_saaeb_brotas.pdf HTTP/2
+> Host: www.arespcj.com.br
+> User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36
+> Accept: */*
+> 
+{ [5 bytes data]
+* TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+{ [265 bytes data]
+* TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):
+{ [265 bytes data]
+* old SSL session ID is stale, removing
+{ [5 bytes data]
+< HTTP/2 200 
+< server: nginx/1.22.1
+< date: Wed, 26 Aug 2026 12:48:00 GMT
+< content-type: application/pdf
+< content-length: 358266
+< last-modified: Tue, 17 Dec 2024 11:45:11 GMT
+< etag: "5777a-62975d461c82f"
+< accept-ranges: bytes
+< cache-control: max-age=31536050
+< expires: Fri, 25 Sep 2026 12:48:00 GMT
+< x-robots-tag: noindex
+< x-cache: MISS
+< lw-x-id: 555a57517f21398e6fb7ed66b288b076.71156-57.151.137.137:14400@dinesh8112
+< 
+{ [16084 bytes data]
+* Connection #0 to host www.arespcj.com.br left intact
+== file ==
+/tmp/t0.pdf: PDF document, version 1.7, 8 page(s)
+== head ==
+%PDF-1.7
+%µµµµ
+1 0 obj
+<</Type/Catalog/Pages 2 0 R/Lang(pt) /StructTreeRoot 43 0 R/MarkInfo<</Marked true>>/Metadata 1269 0 R/ViewerPreferences 1270 0 R>>
+endobj
+2 0 obj
+<</Type/Pages/Count 8/Kids[ 3 0 R 22 0 R 26 0 R 30 0 R 32 0 R 36 0 R 38 0 R 40 0 R] >>
+endobj
+3 0 obj
+<</Type/Page/Parent 2 0 R/Resources<</XObject<</Image5 5 0 R/Image18 18 0 R>>/ExtGState<</GS7 7 0 R/GS10 10 0 R>>/Font<</F1 8 0 R/F2 11 0 R/F3 13 0 R/F4 20 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.32 841.92] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents== dig ==
+179.188.55.18   arespcj.com.br www.arespcj.com.br
