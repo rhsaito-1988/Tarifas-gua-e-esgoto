@@ -62,17 +62,17 @@
 { [5 bytes data]
 < HTTP/2 200 
 < server: nginx/1.22.1
-< date: Wed, 26 Aug 2026 12:48:00 GMT
+< date: Wed, 26 Aug 2026 13:46:55 GMT
 < content-type: application/pdf
 < content-length: 358266
 < last-modified: Tue, 17 Dec 2024 11:45:11 GMT
 < etag: "5777a-62975d461c82f"
 < accept-ranges: bytes
 < cache-control: max-age=31536050
-< expires: Fri, 25 Sep 2026 12:48:00 GMT
+< expires: Fri, 25 Sep 2026 13:46:55 GMT
 < x-robots-tag: noindex
 < x-cache: MISS
-< lw-x-id: 555a57517f21398e6fb7ed66b288b076.71156-57.151.137.137:14400@dinesh8112
+< lw-x-id: f4e6008316f716e8d5220206aadbee7d.144279-172.185.55.138:37968@dinesh8112
 < 
 { [16084 bytes data]
 * Connection #0 to host www.arespcj.com.br left intact
