@@ -1,0 +1,73 @@
+OK SP_3500501_Aguas_de_Lindoia_decreto_4_437_2026 html 39320 text/html; charset=UTF-8
+OK SP_3501707_Americo_Brasiliense_lei_2_679_2025 pdf 759257 application/pdf
+OK SP_3501806_Americo_de_Campos_decreto_3_832_2025_2025 html 27588 text/html; charset=UTF-8
+OK SP_3504404_Avanhandava_decreto_4567_2025 pdf 72 text/html; charset=utf-8
+OK SP_3504602_Bady_Bassitt_decreto_3_331_2026 pdf 128 text/html; charset=utf-8
+OK SP_3504800_Balsamo_lei_2_780_2025 html 36476 text/html; charset=utf-8
+OK SP_3506706_Boa_Esperanca_do_Sul_lei_x_ html 107783 text/html; charset=UTF-8
+OK SP_3507407_Borborema_decreto_6_821_2025 pdf 650717 application/pdf
+OK SP_3507456_Borebi_tabela_site_015_2022_provavel_2022 html 93816 text/html; charset=UTF-8
+OK SP_3508306_Cabralia_Paulista_deliberacao_1_696_2025 pdf 250675 application/pdf
+OK SP_3508801_Cafelandia_decreto_5905_2025 html 6977 text/html; charset=UTF-8
+OK SP_3509304_Cajobi_decreto_2_190_2025 html 50849 text/html; charset=UTF-8
+OK SP_3510807_Casa_Branca_resolucao_099_2026 pdf 8372771 application/pdf
+OK SP_3511904_Clementina_decreto_96_2025 pdf 89 text/html; charset=utf-8
+OK SP_3512001_Colina_decreto_4_921_2025 html 6599 text/html; charset=UTF-8
+OK SP_3513405_Cruzeiro_tabela_site_x_ html 12527 text/html
+OK SP_3514924_Elisiario_decreto_060_2025_2025 pdf 573161 application/pdf
+OK SP_3517000_Getulina_decreto_3_466_2024 pdf 198340 application/pdf
+OK SP_3517208_Guaicara_decreto_3857_2024_2024 pdf 417441 application/pdf
+OK SP_3517307_Guaimbe_decreto_3_379_2026_2026 html 22945 text/html; charset=UTF-8
+OK SP_3517802_Guaracai_decreto_002_2026 html 69238 text/html; charset=UTF-8
+OK SP_3519105_Iacanga_decreto_1526_2025 html 286669 text/html; charset=utf-8
+OK SP_3519501_Ibirarema_portaria_Portaria_SAAEI_03_2022_errata_aprovada_pelo_Decreto_026_2022_2022 pdf 1197383 application/pdf
+OK SP_3519600_Ibitinga_tabela_site_x_ pdf 97 text/html; charset=utf-8
+OK SP_3521309_Ipua_decreto_4_926_2025 pdf 1288567 application/pdf
+OK SP_3521606_Irapuru_decreto_5847_2025 pdf 96 text/html; charset=utf-8
+OK SP_3522000_Itaju_lei_2564_2025 pdf 1984666 application/pdf
+OK SP_3523008_Itapura_lei_2_077_2013_alterada_pela_Lei_2_184_2015_vigencia_postergada_pela_Lei_2_204_2016_2013 html 76415 text/html; charset=UTF-8
+OK SP_3524402_Jacarei_resolucao_41_2026 pdf 179221 application/pdf
+OK SP_3524501_Jaci_decreto_001_2026_2026 html 8672 text/html; charset=UTF-8
+OK SP_3526001_Junqueiropolis_decreto_7923_2025 pdf 122 text/html; charset=utf-8
+OK SP_3528601_Manduri_decreto_x_ html 122517 text/html; charset=UTF-8
+OK SP_3528858_Marapoama_decreto_250_2024_2024 pdf 655419 application/pdf
+ERRO SP_3529500_Mendonca_decreto_2689_ou_2691_ambos_Dispoe_sobre_a_cobranca_das_tarifas_de_servicos_publicos_municipais_documento_publicado_como_Tarifa_de_Agua_2025_2025 tent0 <HTTPError 403: 'Forbidden'>
+ERRO SP_3529500_Mendonca_decreto_2689_ou_2691_ambos_Dispoe_sobre_a_cobranca_das_tarifas_de_servicos_publicos_municipais_documento_publicado_como_Tarifa_de_Agua_2025_2025 tent1 <HTTPError 403: 'Forbidden'>
+ERRO SP_3529500_Mendonca_decreto_2689_ou_2691_ambos_Dispoe_sobre_a_cobranca_das_tarifas_de_servicos_publicos_municipais_documento_publicado_como_Tarifa_de_Agua_2025_2025 tent2 <HTTPError 403: 'Forbidden'>
+OK SP_3531605_Monte_Castelo_decreto_72_2025 html 73429 text/html; charset=UTF-8
+OK SP_3532108_Murutinga_do_Sul_decreto_04_2026 pdf 512348 application/pdf
+OK SP_3532801_Nova_Alianca_lei_85_2021 pdf 487425 application/pdf
+OK SP_3532900_Nova_Europa_decreto_1_570_2025 pdf 1315845 application/pdf
+OK SP_3533106_Nova_Guataporanga_deliberacao_1_514_2024 pdf 426086 application/pdf
+OK SP_3533205_Nova_Independencia_decreto_04_2026 pdf 252942 application/pdf
+ERRO SP_3533601_Nuporanga_decreto_02_2026 tent0 <HTTPError 403: 'Forbidden'>
+ERRO SP_3533601_Nuporanga_decreto_02_2026 tent1 <HTTPError 403: 'Forbidden'>
+ERRO SP_3533601_Nuporanga_decreto_02_2026 tent2 <HTTPError 403: 'Forbidden'>
+OK SP_3534807_Ouro_Verde_decreto_4461_2025 html 77831 text/html; charset=UTF-8
+OK SP_3535309_Palmital_decreto_5_314_2025 html 100594 text/html; charset=UTF-8
+OK SP_3535705_Paraiso_decreto_069_2025_2025 html 7446 text/html; charset=UTF-8
+OK SP_3536406_Pauliceia_decreto_228_25_2025 pdf 142153 application/pdf
+OK SP_3538105_Pindorama_decreto_3158_2026 pdf 113 text/html; charset=utf-8
+OK SP_3538501_Piquete_deliberacao_1_779_2026 pdf 403874 application/pdf
+OK SP_3538907_Pirajui_resolucao_01_2023_2023 pdf 488194 application/pdf
+OK SP_3539004_Pirangi_decreto_3_517_2023 pdf 443517 application/pdf
+OK SP_3540754_Potim_tabela_site_Tabela_Tarifaria_Setembro_2025_2025 pdf 139340 application/pdf
+OK SP_3541604_Promissao_decreto_7452_2025 html 5131 text/html; charset=UTF-8
+OK SP_3542503_Reginopolis_decreto_071_2025_2025 pdf 1020497 application/pdf
+OK SP_3542909_Ribeirao_Bonito_decreto_4552_2026 html 7411 text/html; charset=UTF-8
+OK SP_3544608_Sabino_decreto_2_638_2026 html 74262 text/html; charset=UTF-8
+OK SP_3544806_Sales_decreto_2_965_2025 pdf 1987191 application/pdf
+OK SP_3545407_Salto_Grande_decreto_2736_2026 html 225035 text/html; charset=UTF-8
+OK SP_3546900_Santa_Lucia_lei_1537_2023 html 23226 text/html; charset=UTF-8
+OK SP_3549300_Sao_Joao_do_Pau_d_Alho_lei_1_452_2023 pdf 181311 application/pdf
+OK SP_3549508_Sao_Jose_da_Bela_Vista_decreto_2_200_2026 pdf 671145 application/pdf
+OK SP_3550506_Sao_Pedro_do_Turvo_decreto_142_2025 pdf 91 text/html; charset=utf-8
+OK SP_3550803_Sao_Sebastiao_da_Grama_tabela_site_x_2026 pdf 261632 application/pdf
+OK SP_3551900_Severinia_decreto_6_650_2026 html 33441 text/html; charset=UTF-8
+OK SP_3552601_Tabapua_decreto_004_2026_2026 html 25329 text/html; charset=UTF-8
+OK SP_3553203_Taiuva_lei_2_666_2025 pdf 3244791 application/pdf
+ERRO SP_3554953_Tuiuti_decreto_052_2019 tent0 UnicodeEncodeError('ascii', 'GET /wp-content/uploads/2020/06/052.2019-Disciplina-o-reajuste-nas-tarifas-de-água-e-esgoto-e-dá-outras-providências.pdf HTTP/1.1', 78, 79, 'ordinal not in range(128)')
+ERRO SP_3554953_Tuiuti_decreto_052_2019 tent1 UnicodeEncodeError('ascii', 'GET /wp-content/uploads/2020/06/052.2019-Disciplina-o-reajuste-nas-tarifas-de-água-e-esgoto-e-dá-outras-providências.pdf HTTP/1.1', 78, 79, 'ordinal not in range(128)')
+ERRO SP_3554953_Tuiuti_decreto_052_2019 tent2 UnicodeEncodeError('ascii', 'GET /wp-content/uploads/2020/06/052.2019-Disciplina-o-reajuste-nas-tarifas-de-água-e-esgoto-e-dá-outras-providências.pdf HTTP/1.1', 78, 79, 'ordinal not in range(128)')
+OK SP_3556008_Urupes_decreto_3_362_2025 html 5481 text/html; charset=UTF-8
+OK SP_3556909_Vista_Alegre_do_Alto_decreto_5956_2025 pdf 1204880 application/pdf
